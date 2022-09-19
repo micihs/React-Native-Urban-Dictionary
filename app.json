@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "UrbanDictionaryFrontEnd",
+    "slug": "UrbanDictionaryFrontEnd",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "UrbanDictionaryFrontEnd"
+}
